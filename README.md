@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 对齐=“中心”>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000¢er=%E9% 94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=console.log(Hello+World)" alt="打字SVG" /></a>
+</h1>
+
+<p align="center"><img alt = "animated" src="https://s2.loli.net/2022/11/07/bPBUAsjYyhZvXex.gif" width="550" height="350"/> </p>
+
+<img align="right" src="https://count.getloli.com/get/@:overwhatx?theme=rule34">
 
 🔭 I’m currently working on ...
 🌱 I’m currently learning ...
